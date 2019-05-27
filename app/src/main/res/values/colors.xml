@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#1e90ff</color>
+    <color name="colorCarro">#5faf62</color>
+    <color name="colorCarroRoubado">#e74c3c</color>
+    <color name="brancoColor">#fff</color>
+</resources>
